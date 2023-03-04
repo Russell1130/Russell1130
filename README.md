@@ -7,7 +7,7 @@ I’m a software engineer with concentration in Blockchain and Full Stack Engine
 - 👯 I’m looking to collaborate on any Nodejs, Python or blockchain project.
 - 💬 Ask me about Fullstack development, distributed systems, JavaScript, TypeScript, Nodejs, Python and Blockachain technology.
 - 📫 How to reach me: devlord0625@gmail.com.
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=showbaba&show_icons=true&locale=en" alt="showbaba" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=russell1130&show_icons=true&locale=en" alt="russell1130" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
