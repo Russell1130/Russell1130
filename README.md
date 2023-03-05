@@ -1,4 +1,3 @@
-### Hi, I'm Show 👋
 
 I’m a software engineer with concentration in Blockchain and Full Stack Engineering, I am also an Open Source contributor. I love writing JavaScript, Typescript and Golang. I work as a full stack engineer building large scale distributed systems. Outside of my passion for building large scale distributed systems, I am interested in the future of work and how it will help transform startup development in Canada.
 - 🔭 I’m currently working on Exploring blockchain technologies.
@@ -7,7 +6,7 @@ I’m a software engineer with concentration in Blockchain and Full Stack Engine
 - 📫 How to reach me: devlord0625@gmail.com.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=russell1130&show_icons=true&locale=en" alt="russell1130" /></p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Worked with:</h3>
 <p align="left">
 
 ![L](https://img.shields.io/badge/Language-C-brightgreen)
