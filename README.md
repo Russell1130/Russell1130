@@ -1,4 +1,6 @@
-
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Russell Masato" />
+</h1>
 I’m a software engineer with concentration in Blockchain and Full Stack Engineering. I love writing JavaScript, Typescript. I have worked as a full stack engineer building large scale distributed systems. Outside of my passion for building large scale distributed systems, I am interested in the future of work and how it will help transform startup development in Canada.
 - 🔭 I’m currently working on Exploring blockchain technologies.
 - 👯 I’m looking to collaborate on any Nodejs, Python or blockchain project.
